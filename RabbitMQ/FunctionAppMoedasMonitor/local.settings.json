@@ -1,0 +1,12 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+        "BaseMoedas": "",
+        "RabbitMQConnection": ""
+    },
+    "Host": {
+      "LocalHttpPort": 7074
+    }
+}
